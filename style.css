@@ -1,0 +1,9 @@
+img {
+    mix-blend-mode: multiply;
+}
+
+div {
+    margin: 0 auto;
+    width: 70%;
+    border-radius: 30px;
+}
